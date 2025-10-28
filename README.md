@@ -1,21 +1,17 @@
-## DavidMongo
+## LearnYouMongo
 
-Ejercicios basicos de las acciones principales y caracteristicas de MongoDB (NoSql Database Engine). 
+Basic exercises on the main features and functions of MongoDB (NoSQL Database Engine).
 
-Este repositorio que hace parte del programa de Workshops de NodeSchool (LearnYouMongo)
+This repository is part of the NodeSchool Workshops program (LearnYouMongo).
 
-# Herramientas
+# Tools
 
 	- NodeJs
 	- MongoDB (version 3)
-	- Mongod Deamon corriendo
+	- Mongod Daemon running
 
-## Créditos
-- [David E Lares S](https://twitter.com/@davidlares3)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## NodeSchool Workshop
-- https://github.com/evanlucas/learnyoumongo
-
-## Licencia
-
+## License
 [MIT](https://opensource.org/licenses/MIT)
