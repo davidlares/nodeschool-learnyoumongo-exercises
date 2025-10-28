@@ -6,7 +6,7 @@ This repository is part of the NodeSchool Workshops program (LearnYouMongo).
 
 ## Tools
 
-	- NodeJs
+	- NodeJS
 	- MongoDB (version 3)
 	- Mongod Daemon running
 
