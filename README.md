@@ -4,7 +4,7 @@ Basic exercises on the main features and functions of MongoDB (NoSQL Database En
 
 This repository is part of the NodeSchool Workshops program (LearnYouMongo).
 
-# Tools
+## Tools
 
 	- NodeJs
 	- MongoDB (version 3)
